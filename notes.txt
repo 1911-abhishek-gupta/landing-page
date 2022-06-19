@@ -1,0 +1,4 @@
+According to me most challenging part of this assignment was styling the webpage
+as there were mainy different elements and all of them required different styling .
+
+accroding to me the most easiest task was to structure the web page using react
